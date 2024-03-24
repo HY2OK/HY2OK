@@ -51,7 +51,7 @@
 <!-- 기술 -->
 
 <div align="center" width"100%">
-  <img align="top" src="https://raw.githubusercontent.com/HY2OK/HY2OK/master/stack.svg">
+  <img align="top" src="https://raw.githubusercontent.com/shellcodesniper/shellcodesniper/master/stack.svg">
 </div>
 <br />
 
