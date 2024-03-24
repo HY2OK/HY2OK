@@ -175,10 +175,10 @@
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://wakatime.com/share/@HY2OK/f6ea09a8-9b0c-41ba-b6a4-1fcf8798cc26.svg" width="100%">
+      <img src="[https://wakatime.com/share/@HY2OK/f6ea09a8-9b0c-41ba-b6a4-1fcf8798cc26.svg](https://wakatime.com/share/@018e6f23-23ed-48b3-a8fe-61c13263547c/a005021e-9fc2-439c-84cd-34a49dfa45a9.svg)" width="100%">
     </td>
     <td valign="top">
-      <img src="https://wakatime.com/share/@HY2OK/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg" width="100%">
+      <img src="https://wakatime.com/share/@018e6f23-23ed-48b3-a8fe-61c13263547c/202bccbb-9b4a-43c6-9860-910c7bf2e4a3.svg" width="100%">
     </td>
   </tr>
   <tr>
