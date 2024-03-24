@@ -181,18 +181,7 @@
       <img src="https://wakatime.com/share/@018e6f23-23ed-48b3-a8fe-61c13263547c/202bccbb-9b4a-43c6-9860-910c7bf2e4a3.svg" width="100%">
     </td>
   </tr>
-  <tr>
-    <td colspan="2" style="width:100%">
-      <div align="center">
-        <img align="middle" width="100%" height="54" src="https://raw.githubusercontent.com/HY2OK/HY2OK/master/table_title.svg" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="width:100%">
-      <img src="https://wakatime.com/share/@HY2OK/6e2a5d8e-578f-459e-bcc2-dee6662cc747.svg" width="100%">
-    </td>
-  </tr>
+
 </table>
 
 
