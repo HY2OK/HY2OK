@@ -61,9 +61,9 @@
 
 <!-- 최근관심사 -->
 ### Recent Interest
-![React](https://img.shields.io/badge/React-2CA5E0?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![NextJs](https://img.shields.io/badge/NextJs-231F20?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-2CA5E0?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![NextJs](https://img.shields.io/badge/NextJs-231F20?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-E0234E?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 <br />
@@ -80,11 +80,11 @@
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)&nbsp;
 
 ### FrameWork / Library
-![React](https://img.shields.io/badge/React-2CA5E0?style=flat-square&logo=docker&logoColor=white)&nbsp;
-![ReactNative](https://img.shields.io/badge/ReactNative-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)&nbsp;
-![NextJs](https://img.shields.io/badge/NextJs-231F20?style=flat-square&logo=apache-kafka&logoColor=white)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-E0234E?style=flat-square&logo=apache-kafka&logoColor=white)&nbsp;
-![NodeJs](https://img.shields.io/badge/NodeJs-009639?style=flat-square&logo=nginx&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-2CA5E0?style=flat-square&logo=react&logoColor=white)&nbsp;
+![ReactNative](https://img.shields.io/badge/react-2B2E3A?style=flat-square&logo=react-native&logoColor=9FEAF9)&nbsp;
+![NextJs](https://img.shields.io/badge/NextJs-231F20?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-E0234E?style=flat-square&logo=redux&logoColor=white)&nbsp;
+![NodeJs](https://img.shields.io/badge/NodeJs-009639?style=flat-square&logo=nodedotjs&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 
 
