@@ -61,9 +61,9 @@
 
 <!-- 최근관심사 -->
 ### Recent Interest
-![NextJs](https://img.shields.io/badge/NextJs-231F20?style=flat-square&logo=apache-kafka&logoColor=white)&nbsp;
-![NextJs](https://img.shields.io/badge/NextJs-231F20?style=flat-square&logo=apache-kafka&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-2CA5E0?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![NextJs](https://img.shields.io/badge/NextJs-231F20?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 <br />
@@ -83,8 +83,10 @@
 ![React](https://img.shields.io/badge/React-2CA5E0?style=flat-square&logo=docker&logoColor=white)&nbsp;
 ![ReactNative](https://img.shields.io/badge/ReactNative-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)&nbsp;
 ![NextJs](https://img.shields.io/badge/NextJs-231F20?style=flat-square&logo=apache-kafka&logoColor=white)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-E0234E?style=flat-square&logo=apache-kafka&logoColor=white)&nbsp;
 ![NodeJs](https://img.shields.io/badge/NodeJs-009639?style=flat-square&logo=nginx&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+
 
 ### EDITOR
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-squarege&logo=eslint&logoColor=white)&nbsp;
