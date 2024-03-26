@@ -10,7 +10,9 @@
 </div>
 <br />
 
+<!-- 
 [![wakatime](https://wakatime.com/badge/user/25fbf90f-563d-4038-a635-1df11b361fe2.svg)](https://wakatime.com/@25fbf90f-563d-4038-a635-1df11b361fe2)
+-->
 
 <!-- 트로피! -->
 <div align="center">
