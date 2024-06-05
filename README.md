@@ -100,16 +100,13 @@
 
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)&nbsp; -->
 ![Mac M](https://img.shields.io/badge/apple%20silicon-333333?style=flat-square&logo=apple&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)&nbsp;
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)&nbsp;
 ![HomeBrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=Homebrew&logoColor=white)&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)&nbsp;
 ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=flat-square&logo=alfred)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)&nbsp;
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat-square&logo=kakaotalk&logoColor=000000)&nbsp;
-![Line](https://img.shields.io/badge/Line-00C300?style=flat-square&logo=line&logoColor=white)&nbsp;
 <!-- ![Paypal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)&nbsp; -->
 
 <br/>
