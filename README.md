@@ -1,8 +1,7 @@
 <div align="center">
-  <br>
   <samp>
     <strong>HY2OK</strong><br>
-    Frontend Developer
+    Software Developer
   </samp>
-  <br><br>
+  <br>
 </div>
